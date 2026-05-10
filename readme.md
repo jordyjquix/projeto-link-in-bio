@@ -5,9 +5,5 @@ Este é o meu terceiro projeto prático focado nos fundamentos do desenvolviment
 
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização, layout e responsividade básica.
-# 🚀 Tecnologias Utilizadas
-
-- **HTML5**: Estruturação do conteúdo.
-- **CSS3**: Estilização, layout e responsividade básica.
 - **JS**: Interatividade e lógica das funções.
 - **VS Code**: Editor de código utilizado para o desenvolvimento.
